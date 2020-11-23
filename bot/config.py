@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1485375444:AAFlT0AdHXKMiqty7jVopliS9W6bHiEZ3vQ"
+    APP_ID = "2812864"
+    API_HASH = "759d58f7961ad856582066b60a44591c"
+    DATABASE_URL = "postgres://flcdkfhjmbimbf:291145fd010175a904e9ef179187919d468a287a58bac473d52008fc6f315617@ec2-3-213-106-122.compute-1.amazonaws.com:5432/d37bvstuovd3qv"
+    SUDO_USERS = "793985706" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/fkmoviestudio"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
